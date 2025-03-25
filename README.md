@@ -11,8 +11,7 @@ Atualmente, desenvolvo projetos voltados para **Análise Exploratória, Dashboar
 
 ## 🚀 Sobre Mim  
 🔹 **Formação**: Data Science pela FIAP  
-🔹 **Habilidades**: Python, SQL, Power BI, Excel, Data Cleaning, Dashboards, ETL 
-
+🔹 **Habilidades**: Python, SQL, Power BI, Excel, Data Cleaning, Dashboards, ETL
 🔹 **Experiência prática**: Manipulação de dados, criação de relatórios e análise de métricas de negócio  
 🔹 **Interesse em**: Análise de Dados, BI, Automação de Processos e Otimização de Dados  
 
