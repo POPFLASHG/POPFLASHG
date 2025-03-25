@@ -12,6 +12,7 @@ Atualmente, desenvolvo projetos voltados para **Análise Exploratória, Dashboar
 ## 🚀 Sobre Mim  
 🔹 **Formação**: Data Science pela FIAP  
 🔹 **Habilidades**: Python, SQL, Power BI, Excel, Data Cleaning, Dashboards, ETL 
+
 🔹 **Experiência prática**: Manipulação de dados, criação de relatórios e análise de métricas de negócio  
 🔹 **Interesse em**: Análise de Dados, BI, Automação de Processos e Otimização de Dados  
 
@@ -27,8 +28,6 @@ Aqui estão alguns projetos onde apliquei **Análise de Dados, SQL e Power BI**.
 📌 Construção de um **dashboard interativo** para análise de desempenho acadêmico, incluindo métricas como **notas, faltas e distribuição de alunos**.  
 
 🔹 **[Projeto Extra]** *(Adicionar um terceiro projeto aqui futuramente!)*  
-
-📌 **Dica:** Ter pelo menos **3 projetos** no GitHub aumenta suas chances com recrutadores!  
 
 ---
 
