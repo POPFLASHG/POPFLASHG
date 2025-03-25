@@ -20,10 +20,10 @@ Atualmente, desenvolvo projetos voltados para **Análise Exploratória, Dashboar
 ## 📂 Meus Projetos  
 Aqui estão alguns projetos onde apliquei **Análise de Dados, SQL e Power BI**.  
 
-🔹 **[Análise Preditiva de NPS](https://github.com/seuusuario/transcricao-audio-nps)** *(Python & SQL)*  
+🔹 **[Análise Preditiva de NPS]()** *(Python & SQL)*  
 📌 Limpeza e transformação de dados de pesquisas NPS para análise de satisfação dos clientes.  
 
-🔹 **[Dashboard Acadêmico em Power BI](https://github.com/seuusuario/dashboard-academico)** *(SQL & Power BI)*  
+🔹 **[Dashboard Acadêmico em Power BI]()** *(SQL & Power BI)*  
 📌 Construção de um **dashboard interativo** para análise de desempenho acadêmico, incluindo métricas como **notas, faltas e distribuição de alunos**.  
 
 🔹 **[Projeto Extra]** *(Adicionar um terceiro projeto aqui futuramente!)*  
