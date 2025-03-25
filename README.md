@@ -20,7 +20,7 @@ Atualmente, desenvolvo projetos voltados para **Análise Exploratória, Dashboar
 ## 📂 Meus Projetos  
 Aqui estão alguns projetos onde apliquei **Análise de Dados, SQL e Power BI**.  
 
-🔹 **[Transcrição de Audio e Analise de Sentimento](https://github.com/POPFLASHG/transcricao-audio-nps)** *(Python & SQL)*  
+🔹 **[Transcrição de Audio e Analise de Sentimento](https://github.com/POPFLASHG/transcricao-audio-nps)** *(Python, Power BI & Excel)*  
 📌 transcrever áudios automaticamente e analisar sentimentos de interações com clientes, a análise é baseada no Net Promoter Score (NPS) para entender melhor a satisfação dos clientes e dashboard com insights dos audios.
 
 🔹 **[Dashboard Acadêmico em Power BI]()** *(SQL & Power BI)*  
