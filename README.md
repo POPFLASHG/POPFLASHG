@@ -26,7 +26,7 @@ Aqui estão alguns projetos onde apliquei **Análise de Dados, SQL e Power BI**.
 🔹 **[Dashboard Acadêmico em Power BI](https://github.com/POPFLASHG/dashboard-academico-powerbi)** *(SQL & Power BI)* 
 📌 Construção de um **dashboard interativo** para análise de desempenho acadêmico, incluindo métricas como **notas, faltas e distribuição de alunos**.  
 
-🔹 **[Projeto Extra]** *(Adicionar um terceiro projeto aqui futuramente!)*  
+🔹 **[Projeto Extra]** *(Adicionarei um terceiro projeto aqui futuramente!)*  
 
 ---
 
